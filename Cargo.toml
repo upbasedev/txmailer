@@ -1,13 +1,10 @@
 [package]
 name = "txmailer"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["transactional-email", "mailer", "ses", "liquid", "txmailer"]
-categories = ["web-programming::http-server", "database-implementations", "email"]
-description = "Transactional Mailer with Liquid and AWS SES"
-repository = "https://github.com/apibillme/txmailer"
+description = ""
 readme = "README.md"
 
 [dependencies]
