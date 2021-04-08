@@ -4,7 +4,7 @@ version = "0.0.2"
 authors = ["Bevan Hunt <bevan@bevanhunt.com>"]
 edition = "2018"
 license = "MIT"
-description = ""
+description = "moved to emailer"
 readme = "README.md"
 
 [dependencies]
